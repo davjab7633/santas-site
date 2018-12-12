@@ -1,0 +1,20 @@
+@charset "utf-8";
+body p {
+	font-size: xx-large;
+	color: #8124E7;
+}
+.banner {
+	text-align: center;
+	font-size: x-large;
+	color: #D53434;
+}
+body p img {
+	text-align: right;
+	float: right;
+}
+body p img {
+	float: right;
+}
+body p img {
+	height: 200px;
+}
